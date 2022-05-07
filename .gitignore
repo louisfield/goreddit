@@ -23,3 +23,13 @@ go.work
 config/*
 
 config
+
+Reddit_Data.csv
+
+finalized_model.sav
+
+tokenzier.sav
+
+*.json
+
+*.joblib
